@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b30d6a23-03a0-42b3-b3a5-4f1b79d35296" name="Default Changelist" comment="Index">
-      <change afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b30d6a23-03a0-42b3-b3a5-4f1b79d35296" name="Default Changelist" comment="Theme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605529234785</updated>
-      <workItem from="1605529237553" duration="1583000" />
+      <workItem from="1605529237553" duration="1890000" />
     </task>
     <task id="LOCAL-00001" summary="Index">
       <created>1605529343231</created>
@@ -66,7 +63,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605532407305</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Theme">
+      <created>1605532681041</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605532681041</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Theme">
+      <created>1605532688766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605532688766</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,12 +96,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Index" />
+    <MESSAGE value="Theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Theme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="126" key="Vcs.Push.Dialog.v2" timestamp="1605532409925">
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2" timestamp="1605532691109">
       <screen x="0" y="23" width="1280" height="726" />
     </state>
-    <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.726@0.23.1280.726" timestamp="1605532409925" />
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.726@0.23.1280.726" timestamp="1605532691109" />
   </component>
 </project>
